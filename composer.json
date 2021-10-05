@@ -9,7 +9,6 @@
             "email": "vanhoanpt92@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "symfony/var-dumper": "3.0.0"

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Set DIE function
+ * @author Hoannv <vanhoanpt92@gmail.com>
+ */
 
 if (!function_exists('dd')) {
     function dd()
@@ -9,6 +13,10 @@ if (!function_exists('dd')) {
     }
 }
 
+/**
+ * SET Dump data 
+ * @author Hoannv <vanhoanpt92@gmail.com>
+ */
 if (!function_exists('d')) {
     function d()
     {
